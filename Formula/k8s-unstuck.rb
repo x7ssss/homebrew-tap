@@ -1,4 +1,4 @@
-class K8sUnstuck < Formula
+﻿class K8sUnstuck < Formula
   desc "Safely diagnose, fence GitOps reconcilers, and unstick deadlocked Kubernetes namespaces"
   homepage "https://github.com/x7ssss/k8s-unstuck"
   version "1.0.0"
